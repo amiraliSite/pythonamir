@@ -11,4 +11,4 @@
 ✅ چیدمان واکنش‌گرا: تغییر اندازه خودکار دکمه‌ها
 ✅ ورودی اعداد ۰ تا ۹
 
-<img width="702" height="727" alt="image" src="https://github.com/user-attachments/assets/f30d701e-4949-4b64-a05d-bcf3b1f61651" />
+<img width="702" height="627" alt="image" src="https://github.com/user-attachments/assets/f30d701e-4949-4b64-a05d-bcf3b1f61651" />
