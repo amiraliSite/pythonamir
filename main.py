@@ -1,3 +1,5 @@
+#ساخت پروژه ماشین حساب  
+# سازنده امیرعلی محمدی
 import tkinter as tk
 
 root = tk.Tk()
